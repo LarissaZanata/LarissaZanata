@@ -1,7 +1,7 @@
 ### Olá, sou Larissa Zanata 👋
 
 - 🔭 Hoje estou trabalhando com Java, Spring Framework e PostgresSql.
-- 🌱 Estudando Docker, Design Patterns.
+- 🌱 Estou sempre Estudando.
 - 📫 Me contate pelo zanatalarissamorais@gmail.com.
 
  <div>
